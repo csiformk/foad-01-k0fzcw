@@ -6,7 +6,7 @@
 - Chaque énoncé aura sa **branche** dédié dans la branche **developp**
 - Vous devrez faire des commits fréquents (atomiques) , soigner l'indentation de votre code
 
-# Barème de notation :
+# Barème de notation
 
 - Chaque énoncé est sur **/2 points** , ce qui fait une note **/10**
 - Le travail avec **git** est sur **/10**
